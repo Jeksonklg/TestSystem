@@ -23,5 +23,11 @@ namespace Test
         {
             InitializeComponent();
         }
+
+        private void Creat_clk(object sender, RoutedEventArgs e)
+        {
+            //создаем куда то сохраняем...
+            this.Close();
+        }
     }
 }

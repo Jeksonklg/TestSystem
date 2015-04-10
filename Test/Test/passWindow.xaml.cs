@@ -23,5 +23,10 @@ namespace Test
         {
             InitializeComponent();
         }
+
+        private void Login_clk(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

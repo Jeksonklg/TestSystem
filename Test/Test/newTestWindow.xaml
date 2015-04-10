@@ -13,7 +13,7 @@
         <Label Content="Confirm pass" HorizontalAlignment="Left" Margin="24,220,0,0" VerticalAlignment="Top"/>
         <PasswordBox HorizontalAlignment="Left" Height="23" Margin="108,170,0,0" VerticalAlignment="Top" Width="120"/>
         <PasswordBox HorizontalAlignment="Left" Height="23" Margin="108,220,0,0" VerticalAlignment="Top" Width="120" />
-        <Button Content="Create" HorizontalAlignment="Left" Margin="123,279,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Create" HorizontalAlignment="Left" Margin="123,279,0,0" VerticalAlignment="Top" Width="75" Click="Creat_clk"/>
 
     </Grid>
 </Window>

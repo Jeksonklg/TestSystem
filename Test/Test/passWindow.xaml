@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="passWindow" Height="224.468" Width="313.83">
     <Grid>
-        <Button Content="Login" HorizontalAlignment="Left" Margin="100,154,0,0" VerticalAlignment="Top" Width="97"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="100,154,0,0" VerticalAlignment="Top" Width="97" Click="Login_clk"/>
         <Label Content="Name" HorizontalAlignment="Left" Margin="48,37,0,0" VerticalAlignment="Top"/>
         <Label Content="Pass" HorizontalAlignment="Left" Margin="48,92,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="100,41,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
